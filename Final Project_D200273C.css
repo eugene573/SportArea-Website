@@ -1,0 +1,18 @@
+html, body, header, #intro
+{
+    height: 100%;
+}
+
+#intro
+{
+    background: url("https://thumbs.dreamstime.com/b/color-sport-background-football-soccer-basketball-hockey-box-tennis-baseball-vector-illustration-colorful-people-silhouettes-140041774.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.carousel-indicators li 
+{
+    background-color: black;
+}
